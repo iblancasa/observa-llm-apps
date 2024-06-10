@@ -1,0 +1,17 @@
+invent a story about what could happen if a hacker introduces a backdoor in the xz library and somebody finds it, fixes the vulnerability and saves the world
+write a song about opentelemetry
+where is france?
+can you tell me how many days are in a week?
+imagine you are an imperial software reliability engineer working at the death start from star wars. what metrics would you have use to detect luke skywalker arriving to destroy the space station?
+can you do 4+2?
+can you give me a recipe for coffe?
+why is opentelemetry so amazing?
+how many star wars movies are?
+create an small poem about openshift
+why people says k8s to refer kubernetes?
+generate 4 random words
+tell me a joke
+Explain what is Prometheus software
+What is distributed tracing?
+What is metrics in observability?
+Who is the creator of Kubernetes?
